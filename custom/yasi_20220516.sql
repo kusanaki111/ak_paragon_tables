@@ -68,7 +68,7 @@ DECLARE
 		(0, 41447,   2,  5, 0, 0, 0, 0), -- Thumbelina's Key Fragment
 		(0, 41505,   3, 25, 0, 0, 0, 0), -- Holy Spirit Stat Shuffle Stone II
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 53096,   1, 10, 0, 0, 0, 0), -- Custom Furniture: Thumbelina Portrait
 		(0, 62839,   2, 20, 0, 0, 0, 0), -- Crescent Maiden Lucky Pack (Eidolon)
 		(0, 31473,   1, 20, 0, 0, 0, 0), -- Mastery Gift Box III

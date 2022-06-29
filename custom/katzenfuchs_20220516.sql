@@ -68,7 +68,7 @@ DECLARE
 		(0, 24952,  1, 10, 0, 0, 0, 0), -- Eidolon Pillow - Muse
 		(0, 46032, 35, 55, 0, 0, 0, 0), -- Mana Starstone
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 46032, 50, 15, 0, 0, 0, 0), -- Mana Starstone
 		(0, 40499,  8, 25, 0, 0, 0, 0), -- Premium Treasure Charm
 		(0, 45593,  1, 10, 0, 0, 0, 0), -- Fantasy Gift Voucher: 10 Points

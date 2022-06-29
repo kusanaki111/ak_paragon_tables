@@ -68,7 +68,7 @@ DECLARE
 		(0, 41447,  1,  5, 0, 0, 1, 0), -- Thumbelina's Key Fragment
 		(0, 52542,  1, 15, 0, 0, 1, 0), -- Custom Head: Andrea's Hairdo (F)
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 45592,  3, 40, 0, 0, 1, 0), -- Fantasy Gift Voucher: 1 Point
 		(0, 40655,  1,  5, 0, 0, 1, 0), -- 30th-Order Armor Fortification
 		(0, 41412,  2,  5, 0, 0, 1, 0), -- Orochi's Key Fragment

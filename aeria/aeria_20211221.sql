@@ -68,7 +68,7 @@ DECLARE
 		(0, 40215,  1, 10, 0, 0, 1, 0), -- 300 Loyalty Points
 		(0, 61206,  1, 20, 0, 0, 1, 0), -- Unidentified Mount Stat Shuffle Stone
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 62461,  1, 20, 0, 0, 1, 0), -- Unidentified Super Weapon Enchantment Card
 		(0, 40567,  1, 25, 0, 0, 1, 0), -- Premium Weapon Enchantment - CRIT
 		(0, 53291,  1,  5, 0, 0, 1, 0), -- Weapon: Sapphire Starblades

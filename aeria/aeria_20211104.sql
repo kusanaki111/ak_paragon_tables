@@ -68,7 +68,7 @@ DECLARE
 		(0, 40953, 14, 20, 0, 0, 1, 0), -- Eidolon Lucky Pack
 		(0, 53228,  1, 10, 0, 0, 1, 0), -- Custom Head: Raphael Hairstyle (C)
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 54762,  1, 25, 0, 0, 1, 0), -- Maple Love - Cozy Fox Cushion
 		(0, 40775,  1,  5, 1, 0, 1, 0), -- Muramasa's Key Fragment
 		(0, 41409,  1, 25, 0, 0, 1, 0), -- Super Costume Enchantment Card Fragment

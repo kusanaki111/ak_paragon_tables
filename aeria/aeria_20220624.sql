@@ -68,7 +68,7 @@ DECLARE
 		(0, 40201,   1,  5, 0, 0, 1, 0), -- Brilliant Evolutionary Beads
 		(0, 45794,   2, 20, 0, 0, 1, 0), -- 100 Valor Coins
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 40053,   3, 25, 0, 0, 1, 0), -- Advanced Weapon Fortification Scroll
 		(0, 40932,   1,  5, 0, 0, 1, 0), -- Ares' Key Fragment
 		(0, 40055,   3, 25, 0, 0, 1, 0), -- Advanced Armor Fortification Scroll

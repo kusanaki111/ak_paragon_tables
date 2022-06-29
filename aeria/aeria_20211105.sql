@@ -68,7 +68,7 @@ DECLARE
 		(0, 52576,  1, 15, 0, 0, 1, 0), -- Custom Body: Iwanaga-hime's Kimono (F)
 		(0, 40637,  5, 20, 0, 0, 1, 0), -- Superior Accessory Fortification Scroll
 
-		-- Sixt Row
+		-- Sixth Row
 		(0, 40987,  2, 10, 0, 0, 1, 0), -- Premium XP Card
 		(0, 62383,  3, 25, 0, 0, 1, 0), -- Shiny Crystal Lucky Pack (Eidolon)
 		(0, 41052,  2,  5, 0, 0, 1, 0), -- Kingyo-hime's Key Fragment
