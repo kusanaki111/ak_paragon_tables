@@ -1,0 +1,32 @@
+name: Count Paragon Entries
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+    - master
+    paths:
+    - aeria
+    - custom
+    - without_rates
+
+jobs:
+  counter:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Update Paragon Counter
+      run: |
+        sed -i "5s/.*/Official Paragon Tables created by Aeria Games: \`$(find aeria/* -type f | wc -l)\`\\\/g" README.md
+        sed -i "6s/.*/Custom Paragon Tables created by players: \`$(find custom/* -type f | wc -l)\`\\\/g" README.md
+        sed -i "7s/.*/Unsorted Paragon Tables without rates: \`$(find without_rates/* -type f | wc -l)\`\\\/g" README.md
+
+    - name: Commit
+      uses: actions-x/commit@v6
+      with:
+        name: ${{secrets.NAME}}
+        email: ${{secrets.EMAIL}}
+        files: README.md
+        message: updated paragon counter
