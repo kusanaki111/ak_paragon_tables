@@ -3,8 +3,8 @@ This repository stores Paragon Tables for the game Aura Kingdom.
 
 ## Contents
 Official Paragon Tables created by Aeria Games: `8`\
-Custom Paragon Tables created by players: `0`\
-Unsorted Paragon Tables without rates: `0`
+Custom Paragon Tables created by players: `14`\
+Unsorted Paragon Tables without rates: `34`\
 
 ## Usage
 Select an SQL script and execute it in your account database (the script changes the entries of the `lottery` table).
